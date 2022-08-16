@@ -1,13 +1,12 @@
 flask
 Jinja2
-joblib
 gunicorn
 kiwisolver
 MarkupSafe
 matplotlib
 pandas
 numpy
-sklearn
+
 
 Pillow
 pipreqs
