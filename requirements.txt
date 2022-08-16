@@ -26,6 +26,6 @@ yarg
 
 
 
-
+nltk
 keras
 tensorflow-cpu
